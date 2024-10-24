@@ -19,6 +19,6 @@ The goal of this project is to estimate the impact of different advertising chan
 - **Python**: For data processing and analysis
 - **Pandas**: For data manipulation and cleaning
 - **Matplotlib & Seaborn**: For visualizations
-- **Scikit-learn**: For building the regression model
+- **Statsmodels**: For building the regression model
 - **Jupyter Notebook**: For interactive code and analysis
 
